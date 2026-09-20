@@ -31,8 +31,8 @@ DEMO_VIDEOS = {
 
 ALERT_COOLDOWN_SEC = 60
 CONFIDENCE_THRESHOLD = 0.3
-FRAME_SKIP = 3          # 每N幀辨識一次，兼顧速度與流暢度
-MAX_FRAMES = 900         # 公開demo限制最長處理幀數，避免免費方案資源被單次請求佔滿
+FRAME_SKIP = 6          # 每N幀辨識一次，兼顧速度與流暢度
+MAX_FRAMES = 300         # 公開demo限制最長處理幀數，避免免費方案資源被單次請求佔滿
 
 
 # ============================================================
