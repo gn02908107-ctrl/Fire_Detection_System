@@ -3,7 +3,7 @@
 用 YOLOv8 對影片進行即時物件偵測，辨識畫面中的火災 (fire) 與煙霧 (smoke)；
 一旦偵測到火災，系統會自動擷取當下畫面，並透過 Email 寄出含截圖附件的告警通知。
 
-**🔗 線上Demo：[點我試用](#)**（請填入你的Streamlit部署網址）
+**🔗 線上Demo：[點我試用](https://firedetectionsystem-fbcfhg6zyrzngpqiqkskys.streamlit.app/)
 
 ![demo](assets/demo_screenshot.jpg)
 
@@ -64,4 +64,5 @@ streamlit run app.py
 
 ## 關於作者
 
-如果你在找電腦視覺 / AI應用相關的開發者，歡迎透過履歷上的聯絡方式與我聊聊這個專案的實作細節。
+如果你在找電腦視覺 / AI應用相關的開發者，歡迎與我聯繫聊聊。
+e-mail:gn02908107@gmail.com
