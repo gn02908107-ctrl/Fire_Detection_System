@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+fire_detection_output/
+__pycache__/
+*.pyc
+.DS_Store

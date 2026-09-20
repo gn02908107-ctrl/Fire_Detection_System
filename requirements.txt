@@ -1,0 +1,5 @@
+streamlit>=1.35
+ultralytics>=8.4
+opencv-python-headless>=4.10
+resend>=2.0
+pandas>=2.0
